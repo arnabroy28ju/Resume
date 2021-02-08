@@ -1,0 +1,134 @@
+{
+    "main" :{
+        "name" : "Arnab Singha Roy",
+        "occupation": "Student at AIT Pune",
+        "description" : "Student Developer and Founder of Leftover-Algorhythms",
+        "image" : "profilepic.jpg",
+        "bio" : "Hey there! I am Arnab. You might know me from AIT Pune as a student respentative or from music videos on YouTube and Instagram. It's been more than a year that I took up Full Stacks development. And thoughout this process I have have continiously honed my skills and worked on multiple skilled based projects. This has been quite a journey for me and along the way I have realized that this was something which I was searching for, something that fascinates me and tickle my intelletual instinct. Apart from a student developer, I am a musician and crazy about music. I run my own channel on YouTube and Instagram by the name of Leftover_Algorhythms and am the lead singer there. This has been a journey for trying to up my skills in every aspect and be an inspiration for the generations to follow.",
+        "contactmessage" : "Get in touch with me and be a part of the journey.",
+        "email" : "arnabroy28ju@gmail.com",
+        "phone" : "+91 6303759386",
+        "address" : {
+            "street" : "RA Lines Rd",
+            "city" : "Hyderabad",
+            "state" : "Telangana",
+            "zip" : "500015"
+        },
+        "website" : "https://salty-chamber-95620.herokuapp.com/",
+        "resume"  : "https://drive.google.com/file/d/1nCOFd5_5T1WzglcGHtWou999paeN6ROs/view?usp=sharing",
+        "social" : [
+            {
+                "name" : "youtube",
+                "url" : "https://www.youtube.com/channel/UCoetkIdfKoqK-fFsSHoHrvQ",
+                "className" : "fa fa-youtube"
+            },
+            {
+                "name" : "facebook",
+                "url" : "https://www.facebook.com/arnabroy28ju/",
+                "className" : "fa fa-facebook"
+            },
+            {
+                "name" : "linkedin",
+                "url" : "https://www.linkedin.com/in/arnab-roy-476744175/",
+                "className" : "fa fa-linkedin"
+            },
+            {
+                "name" : "instagram",
+                "url" : "https://www.instagram.com/arhythmiccacophany/",
+                "className" : "fa fa-instagram"
+            },
+            {
+                "name" : "github",
+                "url" : "https://github.com/arnabroy28ju",
+                "className" : "fa fa-github"
+            }
+        ]
+    },
+    "resume" : {
+        "skillmessage" : "My Programming Language Proficiency",
+        "education" : [
+            {
+                "school" : "Army Institute of Technology",
+                "degree" : "Higher Secondary",
+                "graduated" : "May 2018",
+                "description" : "Passed with First Class."
+            }
+        ],
+        "work" : [
+            {
+                "company" : "Army Institute of Technology",
+                "title" : "Student Developer",
+                "years" : "2018-present",
+                "description" : "Full Stacks Developer."
+            }
+        ],
+        "skills" : [
+            {
+                "name" : "ReactJs",
+                "level" : "70%"
+            },
+            {
+                "name" : "Python",
+                "level" : "65%"
+            },
+            {
+                "name" : "AWS Cloud",
+                "level" : "55%"
+            },
+            {
+                "name" : "JavaScript",
+                "level" : "75%"
+            },
+            {
+                "name" : "Web Development",
+                "level" : "80%"
+            },
+            {
+                "name" : "C/C++",
+                "level" : "62%"
+            }
+
+        ]
+        
+    },
+    "portfolio" : {
+        "projects" : [
+            {
+                "title" : "Amazon-Clone(ReactJs)",
+                "category" : "",
+                "image" : "amazon.png",
+                "url" : "https://clone-f2416.web.app/"
+            },
+            {
+                "title" : "LinkedIn-Clone(ReactJs)",
+                "category" : "",
+                "image" : "linkedin.png",
+                "url" : "https://linkedin-clone-89236.web.app"
+            },
+            {
+                "title" : "Netflix-Clone(ReactJs)",
+                "category" : "",
+                "image" : "netflix.png",
+                "url" : "https://netflix-clone-ed6dd.web.app"
+            },
+            {
+                "title" : "Spotify-Clone(ReactJs)",
+                "category" : "",
+                "image" : "spotify.png",
+                "url" : "https://github.com/arnabroy28ju/SongListeningApp"
+            }
+        ]
+    },
+    "testimonials" : {
+        "testimonials" : [
+            {
+                "text" : "A great human being, A charming and Inspiring personality. Being a best friend of mine he also played a role of of a big brother in my life when I had moments of disappointment. He's a blast of emotions.Liveliness is a key factor of his aura. And more prominently a great soloist.",
+                "user" : "Kumar Saurav(Robu.in)"
+            },
+            {
+                "text" : "This space is too small for me to write about my best friend and well wisher. Talking about his technical knowledge he is an avid developer with stacks varying from frontend designing to machine learning and also has a keen interest in problem solving and competitive programming. Non Techically he is a perfect speaker and can speak or host any occasion and also a punctual and disciplined person.",
+                "user" : "Soudip Das(Android Developer)"
+            }
+        ]
+    }
+}
